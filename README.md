@@ -2,7 +2,8 @@
 
 Studi kasus **CRISP-DM** berdasarkan kuliah tamu *Global Infrastructure to Address Local Challenge with HPC* (Worawan Diaz Carballo, Thammasat University). Proyek ini menunjukkan bagaimana komputasi paralel mempercepat simulasi banyak skenario sebaran PM2.5, seperti contoh prakiraan kualitas udara pada superkomputer LANTA di Thailand.
 
-🔗 **[Lihat laporan HTML (live)]([https://USERNAME.github.io/studi-kasus-hpc-pm25/](https://aurelclara.github.io/studi-kasus-simulasi-sebaran-PM2.5-dengan-komputasi-paralel/)**
+🔗 Lihat laporan HTML (live):
+https://USERNAME.github.io/studi-kasus-hpc-pm25/](https://aurelclara.github.io/studi-kasus-simulasi-sebaran-PM2.5-dengan-komputasi-paralel/
 
 ## Kerangka CRISP-DM
 
